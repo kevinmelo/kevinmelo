@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevinmelo
 - 👀 I’m interested in Vue, Quasar, Vuetify, Android, NodeJS and Flutter
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning SSL
 - 💞️ I'm looking to collaborate on my knowledge
 - 📫 How to reach me Github
 
